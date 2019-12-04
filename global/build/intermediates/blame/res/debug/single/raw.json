@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/raw/capk.pkcs12",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/waterbase/build/intermediates/packaged_res/debug/raw/capk.pkcs12"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/raw/srca.cer",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/waterbase/build/intermediates/packaged_res/debug/raw/srca.cer"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/raw/cabks.bks",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/waterbase/build/intermediates/packaged_res/debug/raw/cabks.bks"
+    }
+]

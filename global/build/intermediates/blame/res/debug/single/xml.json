@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/xml/letters_no_number.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/xml/letters_no_number.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/xml/number_or_letters.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/xml/number_or_letters.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/xml/province_abbreviation.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/xml/province_abbreviation.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/xml/file_paths.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/xml/file_paths.xml"
+    }
+]

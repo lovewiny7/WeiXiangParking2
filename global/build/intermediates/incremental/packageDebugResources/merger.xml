@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res"/><source path="/Volumes/Home/as2019/wx/WeiXiangParking/global/build/generated/res/rs/debug"/><source path="/Volumes/Home/as2019/wx/WeiXiangParking/global/build/generated/res/resValues/debug"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res"><file name="fade_in" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/anim/fade_in.xml" qualifiers="" type="anim"/><file name="fade_out" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/anim/fade_out.xml" qualifiers="" type="anim"/><file name="modal_in" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/anim/modal_in.xml" qualifiers="" type="anim"/><file name="modal_out" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/anim/modal_out.xml" qualifiers="" type="anim"/><file name="scale_in" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/anim/scale_in.xml" qualifiers="" type="anim"/><file name="scale_out" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/anim/scale_out.xml" qualifiers="" type="anim"/><file name="slide_dialog_enter" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/anim/slide_dialog_enter.xml" qualifiers="" type="anim"/><file name="slide_dialog_exit" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/anim/slide_dialog_exit.xml" qualifiers="" type="anim"/><file name="translate_dialog_in" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/anim/translate_dialog_in.xml" qualifiers="" type="anim"/><file name="translate_dialog_out" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/anim/translate_dialog_out.xml" qualifiers="" type="anim"/><file name="selector_tab_text" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/color/selector_tab_text.xml" qualifiers="" type="color"/><file name="bg_text_black" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/bg_text_black.xml" qualifiers="" type="drawable"/><file name="bg_text_black_first" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/bg_text_black_first.xml" qualifiers="" type="drawable"/><file name="bg_text_black_mid" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/bg_text_black_mid.xml" qualifiers="" type="drawable"/><file name="bg_text_orange_focus" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/bg_text_orange_focus.xml" qualifiers="" type="drawable"/><file name="bg_text_red" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/bg_text_red.xml" qualifiers="" type="drawable"/><file name="bt_dynamic_del" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/bt_dynamic_del.xml" qualifiers="" type="drawable"/><file name="dialog_background_parent_moving" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/dialog_background_parent_moving.xml" qualifiers="" type="drawable"/><file name="divider_line" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/divider_line.xml" qualifiers="" type="drawable"/><file name="layer_list_seekbar" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/layer_list_seekbar.xml" qualifiers="" type="drawable"/><file name="line_8dp_with_border" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/line_8dp_with_border.xml" qualifiers="" type="drawable"/><file name="oval_solid_save_bg" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/oval_solid_save_bg.xml" qualifiers="" type="drawable"/><file name="radio_button_background" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/radio_button_background.xml" qualifiers="" type="drawable"/><file name="radio_button_text_color" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/radio_button_text_color.xml" qualifiers="" type="drawable"/><file name="search_shape" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/search_shape.xml" qualifiers="" type="drawable"/><file name="seekbar_thumb" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/seekbar_thumb.xml" qualifiers="" type="drawable"/><file name="selector_et_pay_pass" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/selector_et_pay_pass.xml" qualifiers="" type="drawable"/><file name="selector_et_under_line" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/selector_et_under_line.xml" qualifiers="" type="drawable"/><file name="selector_general_approval_bottom_rb" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/selector_general_approval_bottom_rb.xml" qualifiers="" type="drawable"/><file name="selector_general_approval_rb" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/selector_general_approval_rb.xml" qualifiers="" type="drawable"/><file name="selector_keyboard_key" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/selector_keyboard_key.xml" qualifiers="" type="drawable"/><file name="selector_label_bg_orange_white" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/selector_label_bg_orange_white.xml" qualifiers="" type="drawable"/><file name="selector_tab_center" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/selector_tab_center.xml" qualifiers="" type="drawable"/><file name="selector_tab_left" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/selector_tab_left.xml" qualifiers="" type="drawable"/><file name="selector_tab_right" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/selector_tab_right.xml" qualifiers="" type="drawable"/><file name="selector_text_click" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/selector_text_click.xml" qualifiers="" type="drawable"/><file name="selector_text_click_bg_base_title" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/selector_text_click_bg_base_title.xml" qualifiers="" type="drawable"/><file name="shape_bg_white" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_bg_white.xml" qualifiers="" type="drawable"/><file name="shape_btn_blue" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_btn_blue.xml" qualifiers="" type="drawable"/><file name="shape_btn_border_white" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_btn_border_white.xml" qualifiers="" type="drawable"/><file name="shape_btn_green_light" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_btn_green_light.xml" qualifiers="" type="drawable"/><file name="shape_btn_next" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_btn_next.xml" qualifiers="" type="drawable"/><file name="shape_button_null_background" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_button_null_background.xml" qualifiers="" type="drawable"/><file name="shape_check_bg" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_check_bg.xml" qualifiers="" type="drawable"/><file name="shape_click_key_bg_normal" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_click_key_bg_normal.xml" qualifiers="" type="drawable"/><file name="shape_click_key_bg_pressed" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_click_key_bg_pressed.xml" qualifiers="" type="drawable"/><file name="shape_dialog_bg" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_dialog_bg.xml" qualifiers="" type="drawable"/><file name="shape_dialog_negative_btn" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_dialog_negative_btn.xml" qualifiers="" type="drawable"/><file name="shape_dialog_positive_btn" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_dialog_positive_btn.xml" qualifiers="" type="drawable"/><file name="shape_dialog_single_btn" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_dialog_single_btn.xml" qualifiers="" type="drawable"/><file name="shape_edit_text_cursor_color" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_edit_text_cursor_color.xml" qualifiers="" type="drawable"/><file name="shape_edit_text_fillet" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_edit_text_fillet.xml" qualifiers="" type="drawable"/><file name="shape_edit_text_under_line" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_edit_text_under_line.xml" qualifiers="" type="drawable"/><file name="shape_edit_text_under_line_false" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_edit_text_under_line_false.xml" qualifiers="" type="drawable"/><file name="shape_et_bg_white" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_et_bg_white.xml" qualifiers="" type="drawable"/><file name="shape_home_parking_names_bg" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_home_parking_names_bg.xml" qualifiers="" type="drawable"/><file name="shape_input_area" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_input_area.xml" qualifiers="" type="drawable"/><file name="shape_label_false_white" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_label_false_white.xml" qualifiers="" type="drawable"/><file name="shape_label_true_orange" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_label_true_orange.xml" qualifiers="" type="drawable"/><file name="shape_line_vertical" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_line_vertical.xml" qualifiers="" type="drawable"/><file name="shape_tab_center_normal" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_tab_center_normal.xml" qualifiers="" type="drawable"/><file name="shape_tab_center_select" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_tab_center_select.xml" qualifiers="" type="drawable"/><file name="shape_tab_center_selected" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_tab_center_selected.xml" qualifiers="" type="drawable"/><file name="shape_tab_left_normal" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_tab_left_normal.xml" qualifiers="" type="drawable"/><file name="shape_tab_left_selected" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_tab_left_selected.xml" qualifiers="" type="drawable"/><file name="shape_tab_right_normal" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_tab_right_normal.xml" qualifiers="" type="drawable"/><file name="shape_tab_right_selected" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_tab_right_selected.xml" qualifiers="" type="drawable"/><file name="shape_text_circle" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_text_circle.xml" qualifiers="" type="drawable"/><file name="shape_text_circle_orange" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_text_circle_orange.xml" qualifiers="" type="drawable"/><file name="spacer_30" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/spacer_30.xml" qualifiers="" type="drawable"/><file name="a_horizontal" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/layout/a_horizontal.xml" qualifiers="" type="layout"/><file name="activity_clip_image" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/layout/activity_clip_image.xml" qualifiers="" type="layout"/><file name="activity_my_photo" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/layout/activity_my_photo.xml" qualifiers="" type="layout"/><file name="adapter_cell_layout" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/layout/adapter_cell_layout.xml" qualifiers="" type="layout"/><file name="alert_ok_cancle" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/layout/alert_ok_cancle.xml" qualifiers="" type="layout"/><file name="custom_date_picker" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/layout/custom_date_picker.xml" qualifiers="" type="layout"/><file name="custom_marker_view" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/layout/custom_marker_view.xml" qualifiers="" type="layout"/><file name="dialog_bottom_i_arranged" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/layout/dialog_bottom_i_arranged.xml" qualifiers="" type="layout"/><file name="dialog_date_picker" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/layout/dialog_date_picker.xml" qualifiers="" type="layout"/><file name="dialog_feedback_progress" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/layout/dialog_feedback_progress.xml" qualifiers="" type="layout"/><file name="dialog_prompt" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/layout/dialog_prompt.xml" qualifiers="" type="layout"/><file name="dialog_pup" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/layout/dialog_pup.xml" qualifiers="" type="layout"/><file name="dialog_request_permission" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/layout/dialog_request_permission.xml" qualifiers="" type="layout"/><file name="empty_view" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/layout/empty_view.xml" qualifiers="" type="layout"/><file name="input_keyboard_view" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/layout/input_keyboard_view.xml" qualifiers="" type="layout"/><file name="item_card" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/layout/item_card.xml" qualifiers="" type="layout"/><file name="item_dialog_plus_plus" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/layout/item_dialog_plus_plus.xml" qualifiers="" type="layout"/><file name="item_grid_view_create_general_request" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/layout/item_grid_view_create_general_request.xml" qualifiers="" type="layout"/><file name="item_horizontal_data" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/layout/item_horizontal_data.xml" qualifiers="" type="layout"/><file name="item_menu_data" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/layout/item_menu_data.xml" qualifiers="" type="layout"/><file name="item_pop_window_list" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/layout/item_pop_window_list.xml" qualifiers="" type="layout"/><file name="item_popup_window_list" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/layout/item_popup_window_list.xml" qualifiers="" type="layout"/><file name="item_published_grida" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/layout/item_published_grida.xml" qualifiers="" type="layout"/><file name="item_text" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/layout/item_text.xml" qualifiers="" type="layout"/><file name="layout_tab" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/layout/layout_tab.xml" qualifiers="" type="layout"/><file name="line1px" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/layout/line1px.xml" qualifiers="" type="layout"/><file name="line8dp" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/layout/line8dp.xml" qualifiers="" type="layout"/><file name="list_dialog_plus_plus" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/layout/list_dialog_plus_plus.xml" qualifiers="" type="layout"/><file name="permission_info_item" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/layout/permission_info_item.xml" qualifiers="" type="layout"/><file name="pop_seldate" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/layout/pop_seldate.xml" qualifiers="" type="layout"/><file name="popup_text" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/layout/popup_text.xml" qualifiers="" type="layout"/><file name="popup_window_list" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/layout/popup_window_list.xml" qualifiers="" type="layout"/><file name="seekbar_drag_horizontal" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/layout/seekbar_drag_horizontal.xml" qualifiers="" type="layout"/><file name="simple_title_activity" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/layout/simple_title_activity.xml" qualifiers="" type="layout"/><file name="view_ok_cancle" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/layout/view_ok_cancle.xml" qualifiers="" type="layout"/><file name="address_book" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/address_book.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="bg_popup_text" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/bg_popup_text.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="btn_back_white" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/btn_back_white.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_add" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/ic_add.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_arrow_down" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/ic_arrow_down.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_arrow_right" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/ic_arrow_right.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_back" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/ic_back.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_back_white" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/ic_back_white.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_camera" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/ic_camera.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_checked_box" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/ic_checked_box.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_del" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/ic_del.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_edit" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/ic_edit.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_head_normal" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/ic_head_normal.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_home_up" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/ic_home_up.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_map" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/ic_map.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_ok" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/ic_ok.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_search" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/ic_search.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_search_blue" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/ic_search_blue.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_turn_off" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/ic_turn_off.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_turn_on" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/ic_turn_on.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_unchecked_box" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/ic_unchecked_box.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="icon_back" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/icon_back.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="icon_empty" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/icon_empty.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="icon_home_back" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/icon_home_back.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="icon_key_board_delete" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/icon_key_board_delete.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="icon_qx_card" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/icon_qx_card.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="icon_qx_check" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/icon_qx_check.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="icon_qx_down" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/icon_qx_down.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="icon_qx_pay" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/icon_qx_pay.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="icon_qx_record" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/icon_qx_record.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="icon_qx_uncheck" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/icon_qx_uncheck.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="icon_qx_up" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/icon_qx_up.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="icon_qx_white_list" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/icon_qx_white_list.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="icon_search" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/icon_search.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="icon_search_card" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/icon_search_card.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="icon_white_list" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/icon_white_list.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="material_management" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/material_management.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="navigation_apply_normal" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/navigation_apply_normal.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="navigation_apply_pressed" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/navigation_apply_pressed.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="navigation_contactlist_normal" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/navigation_contactlist_normal.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="navigation_contactlist_pressed" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/navigation_contactlist_pressed.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="navigation_desk_normal" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/navigation_desk_normal.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="navigation_desk_pressed" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/navigation_desk_pressed.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="navigation_project_normal" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/navigation_project_normal.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="navigation_project_pressed" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/navigation_project_pressed.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="navigation_user_normal" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/navigation_user_normal.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="navigation_user_pressed" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/navigation_user_pressed.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="permission_card1" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/permission_card1.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="permission_ic_calendar" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/permission_ic_calendar.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="permission_ic_camera" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/permission_ic_camera.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="permission_ic_contacts" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/permission_ic_contacts.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="permission_ic_location" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/permission_ic_location.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="permission_ic_micro_phone" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/permission_ic_micro_phone.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="permission_ic_phone" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/permission_ic_phone.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="permission_ic_sensors" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/permission_ic_sensors.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="permission_ic_sms" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/permission_ic_sms.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="permission_ic_storage" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/permission_ic_storage.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="quality" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/quality.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="record_merit" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xhdpi/record_merit.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="address_book" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/address_book.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="bg_popup_text" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/bg_popup_text.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="bt_dynamic_del_focused" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/bt_dynamic_del_focused.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="bt_dynamic_del_unfocused" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/bt_dynamic_del_unfocused.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="btn_bottom_arc" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/btn_bottom_arc.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="btn_center_arc" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/btn_center_arc.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="btn_top_arc" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/btn_top_arc.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_add" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_add.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_add_black" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_add_black.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_add_friend" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_add_friend.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_arrow_down" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_arrow_down.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_arrow_right" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_arrow_right.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_back" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_back.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_back_white" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_back_white.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_cal_phone" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_cal_phone.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_camera" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_camera.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_checked_box" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_checked_box.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_clean_input" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_clean_input.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_close" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_close.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_collection" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_collection.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_company_announcement" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_company_announcement.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_concat_grey" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_concat_grey.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_concay_green" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_concay_green.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_da_yu" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_da_yu.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_del" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_del.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_edit" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_edit.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_expression" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_expression.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_expression_black" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_expression_black.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_find_green" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_find_green.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_find_grey" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_find_grey.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_have_msg" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_have_msg.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_head_normal" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_head_normal.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_home_up" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_home_up.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_management" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_management.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_map" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_map.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_mark" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_mark.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_me_green" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_me_green.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_me_grey" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_me_grey.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_more" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_more.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_no_msg" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_no_msg.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_ok" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_ok.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_person1" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_person1.jpg" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_person2" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_person2.jpg" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_person3" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_person3.jpg" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_person4" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_person4.jpg" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_person5" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_person5.jpg" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_phone" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_phone.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_photo_album" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_photo_album.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_program_normal" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_program_normal.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_punch" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_punch.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_qr_code" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_qr_code.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_red_line" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_red_line.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_request" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_request.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_right_mark" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_right_mark.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_search" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_search.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_search_black" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_search_black.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_search_blue" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_search_blue.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_select_false" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_select_false.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_select_true" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_select_true.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_setting" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_setting.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_setting_blue" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_setting_blue.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_sms_green" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_sms_green.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_sms_grey" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_sms_grey.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_sound" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_sound.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_sub" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_sub.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_tg_off" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_tg_off.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_tg_on" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_tg_on.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_turn_off" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_turn_off.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_turn_off_orange" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_turn_off_orange.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_turn_on" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_turn_on.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_turn_on_orange" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_turn_on_orange.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_unchecked_box" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_unchecked_box.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_under_mark" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_under_mark.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_undo_plan" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_undo_plan.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_us_num" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_us_num.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_us_talk" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_us_talk.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_user_icon" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_user_icon.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_user_icon_normal" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_user_icon_normal.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_voice" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_voice.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_weixin_pay" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_weixin_pay.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_working_task" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/ic_working_task.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="icon_back" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/icon_back.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="icon_home_back" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/icon_home_back.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="icon_launcher" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/icon_launcher.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="icon_qx_card" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/icon_qx_card.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="icon_qx_controller_0" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/icon_qx_controller_0.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="icon_qx_pay" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/icon_qx_pay.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="icon_qx_record" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/icon_qx_record.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="icon_qx_uncheck" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/icon_qx_uncheck.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="icon_qx_white_list" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/icon_qx_white_list.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="icon_search" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/icon_search.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="image_add" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/image_add.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="material_management" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/material_management.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="navigation_apply_normal" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/navigation_apply_normal.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="navigation_apply_pressed" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/navigation_apply_pressed.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="navigation_contactlist_normal" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/navigation_contactlist_normal.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="navigation_contactlist_pressed" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/navigation_contactlist_pressed.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="navigation_desk_normal" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/navigation_desk_normal.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="navigation_desk_pressed" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/navigation_desk_pressed.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="navigation_project_normal" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/navigation_project_normal.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="navigation_project_pressed" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/navigation_project_pressed.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="navigation_user_normal" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/navigation_user_normal.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="navigation_user_pressed" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/navigation_user_pressed.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="quality" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/quality.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="record_merit" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/mipmap-xxhdpi/record_merit.png" qualifiers="xxhdpi-v4" type="mipmap"/><file path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/values/arrays.xml" qualifiers=""><array name="permissionNames">
+        <item>@string/permission_storage</item>
+        <item>@string/permission_location</item>
+        <item>@string/permission_camera</item>
+    </array></file><file path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/values/attrs.xml" qualifiers=""><declare-styleable name="ClipViewLayout">
+        <attr format="enum" name="clipType">
+            <enum name="circle" value="1"/>
+            <enum name="rectangle" value="2"/>
+        </attr>
+        <attr format="dimension" name="mHorizontalPadding"/>
+        <attr format="dimension" name="clipBorderWidth"/>
+    </declare-styleable><declare-styleable name="ArrowTextView">
+               
+        <attr format="dimension" name="radius"/>
+               
+        <attr format="dimension" name="arrowWidth"/>
+               
+        <attr format="dimension" name="arrowHeight"/>
+               
+        <attr format="color" name="bg"/>
+           
+    </declare-styleable><declare-styleable name="RTextView">
+
+        
+        <attr format="dimension" name="corner_radius"/>
+        <attr format="dimension" name="corner_radius_top_left"/>
+        <attr format="dimension" name="corner_radius_top_right"/>
+        <attr format="dimension" name="corner_radius_bottom_left"/>
+        <attr format="dimension" name="corner_radius_bottom_right"/>
+
+        
+        <attr format="dimension" name="border_dash_width"/>
+        <attr format="dimension" name="border_dash_gap"/>
+
+        
+        <attr format="dimension" name="border_width_normal"/>
+        <attr format="dimension" name="border_width_pressed"/>
+        <attr format="dimension" name="border_width_unable"/>
+
+        
+        <attr format="color" name="border_color_normal"/>
+        <attr format="color" name="border_color_pressed"/>
+        <attr format="color" name="border_color_unable"/>
+
+        
+        <attr format="color" name="background_normal"/>
+        <attr format="color" name="background_pressed"/>
+        <attr format="color" name="background_unable"/>
+
+        
+        <attr format="color" name="text_color_normal"/>
+        <attr format="color" name="text_color_pressed"/>
+        <attr format="color" name="text_color_unable"/>
+
+        
+        <attr format="reference" name="icon_src_normal"/>
+        <attr format="reference" name="icon_src_pressed"/>
+        <attr format="reference" name="icon_src_unable"/>
+
+        
+        <attr format="dimension" name="icon_height"/>
+        <attr format="dimension" name="icon_width"/>
+        <attr name="icon_direction">
+            <enum name="left" value="1"/>
+            <enum name="top" value="2"/>
+            <enum name="right" value="3"/>
+            <enum name="bottom" value="4"/>
+        </attr>
+
+        
+        <attr format="string" name="text_typeface"/>
+
+    </declare-styleable><attr format="reference" name="PermissionBackround"/><attr format="color" name="PermissionTitleColor"/><attr format="color" name="PermissionMsgColor"/><attr format="color" name="PermissionItemTextColor"/><attr format="color" name="PermissionButtonTextColor"/><attr format="reference" name="PermissionButtonBackground"/><attr format="color" name="PermissionBgFilterColor"/><attr format="color" name="PermissionIconFilterColor"/><declare-styleable name="CircularProgressView">
+        <attr format="float" name="cpv_progress"/>
+        <attr format="float" name="cpv_maxProgress"/>
+        <attr format="integer" name="cpv_animDuration"/>
+        <attr format="integer" name="cpv_animSwoopDuration"/>
+        <attr format="integer" name="cpv_animSyncDuration"/>
+        <attr format="color" name="cpv_color"/>
+        <attr format="dimension" name="cpv_thickness"/>
+        <attr format="boolean" name="cpv_indeterminate"/>
+        <attr format="boolean" name="cpv_animAutostart"/>
+        <attr format="integer" name="cpv_animSteps"/>
+        <attr format="float" name="cpv_startAngle"/>
+    </declare-styleable><declare-styleable name="TriangleView">
+        <attr format="dimension" name="sjv_resolutionWidth"/>
+        <attr format="dimension" name="sjv_resolutionHeight"/>
+        <attr format="color" name="sjv_color"/>
+        <attr name="sjv_direction">
+            <enum name="top" value="0"/>
+            <enum name="bottom" value="1"/>
+            <enum name="right" value="2"/>
+            <enum name="left" value="3"/>
+        </attr>
+    </declare-styleable></file><file path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/values/color.xml" qualifiers=""><color name="main_color">#FFB717</color><color name="yellow_border">#FEB616</color><color name="lucency_black">#40515151</color><color name="color_main_bg_white">#ffffff</color><color name="color_main_text_light_black">#666666</color><color name="red">#fd5f5d</color><color name="color_about_us_tv_parking">#EF8627</color><color name="color_main_text_light_gray">#999999</color><color name="lightGray">#cccccc</color><color name="colorPhoto">#4F5457</color><color name="color_divide_line_black_ad">#e1e1e1</color><color name="msg_red">#F4212F</color><color name="colorPrimary">#FFFFFF</color><color name="colorPrimaryDark">#000000</color><color name="colorAccent">#F2963A</color><color name="windowBackground">#F4F4F4</color><color name="text_black">#666666</color><color name="text_gray">#999999</color><color name="text_light_gray">#C4C4C4</color><color name="text_orange">#F2963A</color><color name="text_green">#21C57E</color><color name="dividerLine">#E5E5E5</color><color name="half_transparent">#80000000</color><color name="translucent_background">#66000000</color><color name="white">#FFFFFF</color><color name="black">#000000</color><color name="black_light">#4c4c4c</color><color name="transparent">#00000000</color><color name="orange">#f2963a</color><color name="orange_fill">#F9D484</color><color name="orange_opacity30">#1ef2963a</color><color name="grey_1">#343536</color><color name="grey_2">#666666</color><color name="grey_3">#9b9b9b</color><color name="grey_title">#ededed</color><color name="grey_apple">#f4f4f4</color><color name="green">#1afa29</color><color name="green1">#62c102</color><color name="orange_yellow">#ffb300</color><color name="pass_view_rect_input">#3DA3FF</color><color name="regi_line_color">#c8c8c8</color><color name="color_common_black">#000000</color><color name="color_common_gray">#d9d9d9</color><color name="bar">#6CB0DF</color><color name="bar1">#B5C2CA</color><color name="bar2">#F5E6BF</color><color name="bar3">#81D8C8</color><color name="description">#686868</color><color name="line">#8CD276</color><color name="linefill">#DEEFE4</color><color name="line1">#E9C517</color><color name="line1fill">#ECEAD0</color><color name="line2">#9F8FBA</color><color name="line2fill">#EBE4F8</color><color name="permissionColorGreen">#41c236</color><color name="permissionColorWhite">#ffffff</color><color name="permissionBgColorGreenLight">#44A49C</color><color name="permissionBgColorBlue">#ee447AA4</color><color name="date_picker_bg">#FFFFFF</color><color name="date_picker_divider">#11112233</color><color name="date_picker_text_light">#59B29C</color><color name="date_picker_text_dark">#333333</color><color name="main_bg">#F0F0F0</color><color name="select_title_text">#B0B0B0</color><color name="current_time_bg">#FFFFFF</color><color name="current_time_text">#666666</color><color name="selected_time_text">#57C5E8</color><color name="cpv_default_color">#2196F3</color><dimen name="cpv_default_thickness">4dp</dimen><integer name="cpv_default_progress">0</integer><integer name="cpv_default_max_progress">100</integer><bool name="cpv_default_is_indeterminate">false</bool><bool name="cpv_default_anim_autostart">false</bool><integer name="cpv_default_anim_duration">4000</integer><integer name="cpv_default_anim_swoop_duration">5000</integer><integer name="cpv_default_anim_sync_duration">500</integer><integer name="cpv_default_anim_steps">3</integer><integer name="cpv_default_start_angle">-90</integer></file><file path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/values/dimens.xml" qualifiers=""><dimen name="def_height">50dp</dimen><dimen name="dp_4">4dp</dimen><dimen name="dp_10">10dp</dimen><dimen name="dp_40">40dp</dimen><dimen name="dp_72">72dp</dimen><dimen name="dp_5">5dp</dimen><dimen name="sp_12">12sp</dimen><dimen name="sp_14">14sp</dimen><dimen name="sp_16">16sp</dimen><dimen name="sp_18">18sp</dimen><item name="BaseQuickAdapter_databinding_support" type="id"/><item name="BaseQuickAdapter_dragging_support" type="id"/><item name="BaseQuickAdapter_swiping_support" type="id"/><item name="BaseQuickAdapter_viewholder_support" type="id"/><string name="load_end">没有更多数据</string><string name="load_failed">加载失败，请点我重试</string><string name="loading">正在加载中...</string><dimen name="title_height">48dp</dimen><dimen name="dp_160">160dp</dimen><dimen name="dp_15">15dp</dimen><dimen name="text_margin">16dp</dimen><dimen name="dp_150">150dp</dimen><dimen name="dp_50">50dp</dimen><dimen name="dp_25">25dp</dimen><dimen name="dp_20">20dp</dimen><dimen name="dialog_radius">15dip</dimen><dimen name="picker_view_height">160dp</dimen><dimen name="date_unit_text_size">18sp</dimen></file><file path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/values/strings.xml" qualifiers=""><string name="app_name">悠管家</string><string name="chooseSex">请选择性别</string><string name="no_data">暂无数据</string><string name="prompt">提示</string><string name="network_error">网络连接失败，请检查您的网络连接。</string><string name="confirm">确定</string><string name="cancel">取消</string><string name="time_selector_title">请选择时间</string><string name="year">年</string><string name="month">月</string><string name="day">日</string><string name="hour">时</string><string name="minute">分</string><string name="login_ing">登录中，请稍后</string><string name="login_success">登录成功</string><string name="username_hint">请输入账号</string><string name="user_password">请输入密码</string><string name="password_null">密码为空</string><string name="username_null">用户名为空</string><string name="account_title">账号管理权限</string><string name="account_authority_null">用户权限为空</string><string name="subaccout_commit">完成</string><string name="parking_space_order">车位预约</string><string name="parking_space_order_cash_pay">现金缴费</string><string name="parking_space_order_no_use">未使用</string><string name="parking_space_order_in_use">使用中</string><string name="parking_space_order_complete">已完成</string><string name="entry_time">入场时间</string><string name="stopping_time">已停车时间</string><string formatted="false" name="duration_hh_mm">%d小时%d分</string><string name="normal_billing">正常停车计费</string><string name="parking_cost">费用</string><string name="SymbolOfRMB">¥ </string><string formatted="false" name="parking_cost_sum">共计：¥ %s</string><string formatted="false" name="start_time">开始时间：%s</string><string formatted="false" name="end_time">结束时间：%s</string><string name="cost_detail">收费明细：</string><string name="time_frame">时段</string><string name="norma_cost_hint">* 不足0.5小时按0.5小时计费，大于0.5小时小于1小时按1小时计费</string><string name="over_cost_hint">* 不足0.5小时按0.5小时计费, 大于0.5小时小于1小时按1小时费用计费, 费用由两部分组成 (价格*停车时长+1倍*价格*停车时长)</string><string formatted="false" name="normalParkingTotalHours">正常停车时长：%s小时</string><string formatted="false" name="normalParkingTotalCost">正常费用共计：%s元</string><string name="over_billing">违约停车计费：</string><string name="parking_space_no">车位号</string><string name="fd_order_time">预约的出入场时间</string><string name="fd_time">实际的出入场时间</string><string name="fees">收费</string><string name="price">价格</string><string name="duration">停车时长</string><string name="price_unit">（元/小时）</string><string name="duration_unit">（时）</string><string name="cost_unit">（元）</string><string formatted="false" name="overParkingTotalHours">违约停车时长：%s时</string><string formatted="false" name="overParkingTotalCost">违约费用共计：%s元</string><string formatted="false" name="totalParkingTotalHours">总停车时长：%s时</string><string formatted="false" name="totalParkingTotalCost">总停车费用：%s元</string><string name="main_white_list">白名单</string><string name="main_pay">现金缴费</string><string name="main_parking">车位预约</string><string name="main_card">悠停卡</string><string name="main_total_count">* 共%d个车位</string><string name="main_in_use">使用中</string><string name="main_detail_hint">点击查看详情</string><string name="bt_login">登录</string><string name="goout_login">退出登录</string><string name="goout_login_insure">您确定退出登录吗？</string><string name="add_account_premission">添加账号管理权限</string><string name="tv_cancle">取消</string><string name="tv_ensure">确定</string><string name="tv_selsect">已选择0项</string><string name="select_num">已选择%1$d项</string><string name="order_recored">车位预约</string><string name="pay_money">现金缴费</string><string name="add_account_title">添加账号管理权限</string><string name="add_account_delect_title">账号管理权限</string><string name="add_account_message">正在添加用户，请稍后</string><string name="query_account_message">正在查询用户，请稍后</string><string name="add_delete">删除</string><string name="account_delete">您确定删除该账号管理权限吗？</string><string name="account_edit_msg">编辑中，是否确认退出？</string><string name="white_loading">正在加载数据...</string><string name="white_title">白名单</string><string name="white_right_add">添加</string><string name="white_delect_msg">确定删除此白名单信息吗？</string><string name="white_loadmore_error">获取更多数据失败</string><string name="white_add_title">白名单添加</string><string name="white_add_plate_num">车牌号</string><string name="white_add_new_energy">  新能源车辆</string><string name="white_add_user_time">使用期限</string><string name="white_add_create_time">自定义时间</string><string name="white_add_commit">完成</string><string name="white_add_commit_msg">正在提交数据...</string><string name="white_add_normal_num">陕</string><string name="white_add_input_plate">请输入正确的车牌号码</string><string name="white_add_input_date">请输入正确的时间</string><string name="white_add_select_premission">请选择使用期限</string><string name="white_add_detail_title">白名单详情</string><string formatted="false" name="white_detail_end_time">%s 到期</string><string formatted="false" name="white_detail_end_untime">%s 已到期</string><string name="parking_card">悠停卡</string><string name="filter_vcode">0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</string><string name="card_type">卡类型</string><string name="purchase_time">购卡时间</string><string name="card_detail_end_time">到期时间</string><string formatted="false" name="residue_time">剩%d天</string><string name="parking_card_detail">悠停卡详情</string><string name="no_authority">您没有该权限</string><string name="cash_pay_search_hint">搜索车牌号</string><string name="cash_pay_search_plate">车牌号为空</string><string name="cash_pay_title">现金缴费</string><string name="cash_pay_no_use">未使用</string><string name="cash_pay_complete">已完成</string><string name="cash_pay_has_cancle">已取消</string><string name="cash_pay_using">使用中</string><string name="cash_pay_money">现金收费</string><string name="cash_pay_detail_title">缴费完成详情</string><string name="cash_pay_detail_uing">使用中详情</string><string name="cash_pay_goin_time">入场时间</string><string name="cash_pay_alger_time">已停车时间</string><string name="cash_pay_hour_second">%1$d小时%2$d分钟</string><string name="cash_pay_hour">%1$d小时</string><string name="cash_pay_second">%1$d分钟</string><string name="cash_pay_total_money">共计:￥%1$s</string><string name="reLoginPrompt">您的账号在其他设备登录，请重新登录！</string><string name="password_type">请输入账号密码（字母+数字共六个字符）</string><string name="username_type">请输入账号名称（字母+数字共六个字符）</string><string name="enter_price">您是否确认收费？</string><string name="car_num_type">abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ京津冀晋蒙辽吉黑沪苏浙皖闽赣鲁豫鄂湘粤桂琼渝川贵云藏陕甘青宁新港澳台1234567890</string><string name="bt_register">注册</string><string name="bt_next">下一步</string><string name="view_ok_cancel">确定%1$s</string><string name="login_by_others">其他方式登录</string><string name="forgot_pass">忘记密码？</string><string name="input_code">请输入验证码</string><string name="permission_storage">Storage</string><string name="permission_location">Location</string><string name="permission_camera">Camera</string><string name="permission_dialog_title">Start %s</string><string name="permission_dialog_msg">For your normal use %s, you need the following permissions</string><string name="permission_title">Please allow access to %s</string><string name="permission_denied">We need access to %1$s,otherwise, you will not be able to use %2$s</string><string name="permission_denied_with_naac">"Because %1$s cannot use %2$s,Can not run normally,Please open permissions before using.\n\nSetup path: Apps->%3$s->Permissions"</string><string name="permission_cancel">Cancel</string><string name="permission_ensure">Enter</string><string name="permission_reject">Deny</string><string name="permission_btn_next">Next</string><string name="permission_go_to_setting">Go to Setting</string><string name="title">请选择时间</string><string name="select_date">选择日期</string><string name="current_date">当前日期</string><string name="select_time">选择时间</string><string name="current_time">当前时间</string></file><file path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/values/styles.xml" qualifiers=""><style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style><style name="style_width_height_match_parent">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+    </style><style name="style_width_match_parent_height_wrap_content">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style><style name="style_width_height_wrap_content">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style><style name="line_1px">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1px</item>
+        <item name="android:background">#5c5c5c</item>
+    </style><style name="line_1dp">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">#55cccccc</item>
+    </style><style name="line_1dp_grey">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1px</item>
+        <item name="android:background">@color/grey_3</item>
+    </style><style name="line_1dp_ver">
+        <item name="android:layout_width">1dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">#55cccccc</item>
+    </style><style name="line_3dp">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">3dp</item>
+        <item name="android:background">#55cccccc</item>
+    </style><style name="line_1px_text_gray">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1px</item>
+        <item name="android:background">#55999999</item>
+        <item name="android:layout_marginStart">12dp</item>
+        <item name="android:layout_marginEnd">12dp</item>
+    </style><style name="line_8dp">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">8dp</item>
+        <item name="android:background">#55cccccc</item>
+    </style><style name="view_height_8dp_light">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">8dp</item>
+        <item name="android:background">#55cccccc</item>
+    </style><style name="view_height_10dp">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">10dp</item>
+    </style><style name="view_height_10dp_white">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">10dp</item>
+        <item name="android:background">#fff</item>
+    </style><style name="view_height_20dp">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/dp_40</item>
+    </style><style name="style_flow_people_8_dp_height_split_line">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">8dp</item>
+        <item name="android:background">#55cccccc</item>
+    </style><style name="style_common_line_style">
+        <item name="android:padding">12dp</item>
+        <item name="android:layout_height">44dp</item>
+        <item name="android:background">@color/color_main_bg_white</item>
+        <item name="android:layout_width">match_parent</item>
+    </style><style name="style_width_height_wrap_content_right_arrow">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/color_main_text_light_black</item>
+        <item name="android:textSize">@dimen/sp_16</item>
+        <item name="android:paddingLeft">12dp</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:src">@mipmap/ic_arrow_right</item>
+    </style><style name="style_width_height_wrap_content_arrow">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/color_main_text_light_black</item>
+        <item name="android:textSize">@dimen/sp_16</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:src">@mipmap/ic_arrow_right</item>
+    </style><style name="style_image_view_user_info">
+        <item name="android:layout_width">50dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentLeft">true</item>
+    </style><style name="style_my_center_logout_bt">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">147px</item>
+        <item name="android:layout_alignParentBottom">true</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_marginBottom">34px</item>
+        <item name="android:layout_marginLeft">34px</item>
+        <item name="android:layout_marginRight">34px</item>
+        <item name="android:background">@drawable/bg_text_red</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">48px</item>
+    </style><style name="style_common_btn">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:layout_marginLeft">40dp</item>
+        <item name="android:layout_marginRight">40dp</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_centerHorizontal">true</item>
+
+    </style><style name="style_edit_text_user_info" parent="style_width_height_match_parent">
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:layout_alignParentTop">true</item>
+        <item name="android:layout_marginLeft">100dp</item>
+        <item name="android:background">@null</item>
+        <item name="android:gravity">right|center_vertical</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:paddingRight">5dp</item>
+        <item name="android:textColor">@color/color_main_text_light_black</item>
+        <item name="android:textColorHint">@color/color_main_text_light_gray</item>
+        <item name="android:textSize">@dimen/sp_14</item>
+    </style><style name="style_flow_people_1_ps_line_grey">
+
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1px</item>
+        <item name="android:layout_marginLeft">10dp</item>
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:background">@color/lightGray</item>
+    </style><style name="TabLayoutTextStyle">
+        <item name="android:textSize">@dimen/sp_16</item>
+        <item name="android:textColor">@color/color_main_text_light_black</item>
+    </style><style name="style_flow_people_10_dp_height_split_line">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">10dp</item>
+        <item name="android:background">#55cccccc</item>
+    </style><style name="style_general_approval_title">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">44dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">#000</item>
+        <item name="android:textSize">@dimen/sp_14</item>
+    </style><style name="style_general_approval_rb">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:button">@null</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@color/base_title_bg</item>
+        <item name="android:textColor">@drawable/radio_button_text_color</item>
+        <item name="android:textSize">@dimen/sp_16</item>
+    </style><style name="style_all_other">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">150dp</item>
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:background">@drawable/shape_input_area</item>
+        <item name="android:gravity">left|top</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:textSize">@dimen/sp_14</item>
+    </style><style name="style_general_approval_bottom_rb">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:button">@null</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@color/base_title_bg</item>
+        <item name="android:textColor">@drawable/selector_general_approval_rb</item>
+        <item name="android:textSize">@dimen/sp_16</item>
+    </style><style name="style_flow_people_40_dp_height_split_line">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">40dp</item>
+    </style><style name="custom_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:background">#00000000</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowNoTitle">true</item>
+    </style><style name="style_bottom_dialog_line">
+        <item name="android:layout_width">1022px</item>
+        <item name="android:layout_height">4px</item>
+        <item name="android:background">#666666</item>
+    </style><style name="style_bottom_dialog_tv">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">144px</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">#666666</item>
+        <item name="android:textSize">48px</item>
+    </style><style name="style_bottom_dialog_tv2">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">#666666</item>
+        <item name="android:textSize">48px</item>
+    </style><style name="style_bottom_dialog_ll_outer">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">5dp</item>
+        <item name="android:layout_marginRight">5dp</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:orientation">vertical</item>
+    </style><style name="style_bottom_dialog_ll_outer2">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">200dp</item>
+        <item name="android:layout_marginLeft">5dp</item>
+        <item name="android:layout_marginRight">5dp</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:orientation">vertical</item>
+    </style><style name="style_all_opinion">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">100dp</item>
+        <item name="android:background">@drawable/shape_input_area</item>
+        <item name="android:gravity">left|top</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:textSize">@dimen/sp_14</item>
+        <item name="android:hint">请输入您的意见或建议</item>
+    </style><style name="style_width_height_wrap_content_arrow2">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/color_main_text_light_black</item>
+        <item name="android:textSize">@dimen/sp_16</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:src">@mipmap/ic_arrow_down</item>
+    </style><style name="style_add_photo_grid_view_2_line">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:columnWidth">80dp</item>
+        <item name="android:numColumns">4</item>
+    </style><style name="style_working_msg_icon">
+        <item name="android:layout_width">18dp</item>
+        <item name="android:layout_height">18dp</item>
+        <item name="android:layout_gravity">right</item>
+        <item name="android:background">@drawable/shape_text_circle</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:textSize">8sp</item>
+    </style><style name="style_edit_box">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">44dp</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:background">@drawable/search_shape</item>
+        <item name="android:drawablePadding">10dp</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">@color/color_main_text_light_black</item>
+        <item name="android:textColorHint">@color/color_main_text_light_black</item>
+        <item name="android:textCursorDrawable">@null</item>
+        <item name="android:textSize">@dimen/sp_16</item>
+    </style><style name="style_edit_text_user_info2">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_alignParentTop">true</item>
+        <item name="android:background">@null</item>
+        <item name="android:gravity">right|center_vertical</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:paddingRight">5dp</item>
+        <item name="android:textColor">@color/color_main_text_light_black</item>
+        <item name="android:textColorHint">@color/color_main_text_light_gray</item>
+        <item name="android:textSize">@dimen/sp_14</item>
+    </style><style name="Dialog" parent="android:style/Theme.Dialog">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+    </style><style name="BottomDialog" parent="@style/Base.V7.Theme.AppCompat.Light.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style><style name="BottomDialog.Animation" parent="Animation.AppCompat.Dialog">
+        <item name="android:windowEnterAnimation">@anim/translate_dialog_in</item>
+        <item name="android:windowExitAnimation">@anim/translate_dialog_out</item>
+    </style><style name="TimeDialogStyle" parent="android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:windowAnimationStyle">@style/dialogAnimation</item>
+        <item name="android:windowFullscreen">true</item>
+    </style><style name="dialogAnimation" parent="@android:style/Animation.Dialog">
+        <item name="android:windowEnterAnimation">@anim/slide_dialog_enter</item>
+        <item name="android:windowExitAnimation">@anim/slide_dialog_exit</item>
+    </style><style name="style_floor_lock_management_ll">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center</item>
+        <item name="android:orientation">vertical</item>
+    </style><style name="style_floor_lock_management_tv">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#666</item>
+        <item name="android:textSize">@dimen/sp_14</item>
+    </style><declare-styleable name="PassWordLayoutStyle">
+        <attr format="reference" name="box_input_color"/>//输入框输入状态颜色
+        <attr format="reference" name="box_no_input_color"/>//输入框未输入状态颜色
+        <attr format="reference" name="input_line_color"/>//输入线颜色
+        <attr format="reference" name="text_input_color"/>//文本颜色
+        <attr format="dimension" name="interval_width"/>//间隔
+        <attr format="dimension" name="item_width"/>//子View宽
+        <attr format="dimension" name="item_height"/>//子View高
+        <attr format="dimension" name="draw_txt_size"/>//文本大小
+        <attr format="dimension" name="draw_box_line_size"/>//输入线条大小
+        <attr format="boolean" name="is_show_input_line"/>//是否显示输入线
+        <attr name="pass_inputed_type">//密码输入显示内容
+            <flag name="circle" value="0"/>
+            <flag name="stars" value="1"/>
+            <flag name="text" value="2"/>
+        </attr>
+        <attr name="box_draw_type">//密码框形状
+            <flag name="rect" value="0"/>
+            <flag name="circle" value="1"/>
+            <flag name="line" value="2"/>
+        </attr>
+        <attr name="pass_leng">//密码长度 只考虑4 6 8
+            <flag name="four" value="4"/>
+            <flag name="six" value="6"/>
+            <flag name="eight" value="8"/>
+        </attr>
+    </declare-styleable><style name="tv_data_key">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textColor">@color/grey_1</item>
+        <item name="android:textSize">@dimen/sp_18</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style><style name="tv_data_key_40dp">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">@dimen/dp_40</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textColor">@color/grey_1</item>
+        <item name="android:textSize">@dimen/sp_18</item>
+    </style><style name="tv_data_value">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">@dimen/sp_16</item>
+        <item name="android:background">@drawable/shape_et_bg_white</item>
+        <item name="android:paddingLeft">@dimen/dp_5</item>
+        <item name="android:paddingBottom">@dimen/dp_10</item>
+        <item name="android:paddingTop">@dimen/dp_10</item>
+        <item name="android:layout_marginBottom">@dimen/dp_10</item>
+        <item name="android:layout_centerVertical">true</item>
+
+    </style><style name="tv_data_value_40dp">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/dp_40</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">@dimen/sp_16</item>
+        <item name="android:background">@null</item>
+        <item name="android:paddingLeft">@dimen/dp_10</item>
+        <item name="android:layout_marginEnd">@dimen/dp_10</item>
+    </style><style name="tv_pro_value_40dp">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/dp_40</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">@dimen/sp_16</item>
+        <item name="android:background">@drawable/shape_et_bg_white</item>
+        <item name="android:paddingLeft">@dimen/dp_10</item>
+        <item name="android:layout_marginEnd">@dimen/dp_10</item>
+    </style><style name="tv_data_value_40dp_end">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">@dimen/dp_40</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">@dimen/sp_16</item>
+        <item name="android:layout_alignParentEnd">true</item>
+    </style><style name="style_ll_create_car">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:orientation">horizontal</item>
+    </style><style name="style_rl_create_car">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style><style name="date_picker_dialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowBackground">@color/date_picker_bg</item>
+    </style><style name="notAnimation">
+        <item name="android:activityOpenEnterAnimation">@null</item>
+        <item name="android:activityOpenExitAnimation">@null</item>
+        <item name="android:activityCloseEnterAnimation">@null</item>
+        <item name="android:activityCloseExitAnimation">@null</item>
+        <item name="android:taskOpenEnterAnimation">@null</item>
+        <item name="android:taskOpenExitAnimation">@null</item>
+        <item name="android:taskCloseEnterAnimation">@null</item>
+        <item name="android:taskCloseExitAnimation">@null</item>
+        <item name="android:taskToFrontEnterAnimation">@null</item>
+        <item name="android:taskToFrontExitAnimation">@null</item>
+        <item name="android:taskToBackEnterAnimation">@null</item>
+        <item name="android:taskToBackExitAnimation">@null</item>
+    </style><style name="CustomTheme_Dialog" parent="@style/Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@style/notAnimation</item>
+    </style><style name="PermissionBaseWhiteStyle">
+        <item name="PermissionTitleColor">@color/permissionColorWhite</item>
+        <item name="PermissionMsgColor">@color/permissionColorWhite</item>
+        <item name="PermissionItemTextColor">@color/permissionColorWhite</item>
+        <item name="PermissionButtonTextColor">@color/permissionColorWhite</item>
+        <item name="PermissionIconFilterColor">@color/permissionColorWhite</item>
+    </style><style name="PermissionDefaultNormalStyle">
+        <item name="PermissionTitleColor">#737373</item>
+        <item name="PermissionMsgColor">#737373</item>
+        <item name="PermissionItemTextColor">#737373</item>
+        <item name="PermissionButtonBackground">@drawable/shape_btn_next</item>
+        <item name="PermissionBackround">@drawable/shape_bg_white</item>
+        <item name="PermissionButtonTextColor">@android:color/white</item>
+    </style><style name="PermissionDefaultGreenStyle" parent="PermissionBaseWhiteStyle">
+        <item name="PermissionButtonBackground">@drawable/shape_btn_green_light</item>
+        <item name="PermissionBackround">@mipmap/permission_card1</item>
+        <item name="PermissionBgFilterColor">@color/permissionBgColorGreenLight</item>
+    </style><style name="PermissionDefaultBlueStyle" parent="PermissionBaseWhiteStyle">
+        <item name="PermissionButtonBackground">@drawable/shape_btn_border_white</item>
+        <item name="PermissionBackround">@drawable/shape_btn_blue</item>
+    </style><style name="PermissionAnimFade">
+        <item name="android:windowEnterAnimation">@anim/fade_in</item>
+        <item name="android:windowExitAnimation">@anim/fade_out</item>
+    </style><style name="PermissionAnimScale">
+        <item name="android:windowEnterAnimation">@anim/scale_in</item>
+        <item name="android:windowExitAnimation">@anim/scale_out</item>
+    </style><style name="PermissionAnimModal">
+        <item name="android:windowEnterAnimation">@anim/modal_in</item>
+        <item name="android:windowExitAnimation">@anim/modal_out</item>
+    </style><style name="dialog_parent" parent="@android:style/Theme.Dialog">
+        
+        <item name="android:windowBackground">@color/transparent</item>
+        
+        <item name="android:windowFrame">@null</item>
+        
+        <item name="android:windowNoTitle">true</item>
+        
+        <item name="android:windowContentOverlay">@null</item>
+        
+        <item name="android:windowIsFloating">true</item>
+        
+        <item name="android:backgroundDimEnabled">false</item>
+        
+        <item name="android:background">@drawable/dialog_background_parent_moving</item>
+    </style></file><file path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/values-zh/strings.xml" qualifiers="zh"><string name="permission_storage">存储空间</string><string name="permission_location">位置信息</string><string name="permission_camera">拍照权限</string><string name="permission_dialog_title">开启%s</string><string name="permission_dialog_msg">为了您能正常使用%s，需要以下权限</string><string name="permission_title">请允许获取%s</string><string name="permission_denied">我们需要获取%1$s, 否则您将无法正常使用%2$s</string><string name="permission_denied_with_naac">"由于%1$s无法获取%2$s, 不能正常运行, 请开启权限后再使用。\n\n设置路径: 应用管理->%3$s->权限"</string><string name="permission_cancel">取消</string><string name="permission_ensure">确定</string><string name="permission_reject">拒绝</string><string name="permission_btn_next">下一步</string><string name="permission_go_to_setting">去设置</string></file><file name="file_paths" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/xml/file_paths.xml" qualifiers="" type="xml"/><file name="letters_no_number" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/xml/letters_no_number.xml" qualifiers="" type="xml"/><file name="number_or_letters" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/xml/number_or_letters.xml" qualifiers="" type="xml"/><file name="province_abbreviation" path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/xml/province_abbreviation.xml" qualifiers="" type="xml"/></source><source path="/Volumes/Home/as2019/wx/WeiXiangParking/global/build/generated/res/rs/debug"/><source path="/Volumes/Home/as2019/wx/WeiXiangParking/global/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/debug/res"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="/Volumes/Home/as2019/wx/WeiXiangParking/global/src/debug/res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="RTextView"><attr format="dimension" name="corner_radius"/><attr format="dimension" name="corner_radius_top_left"/><attr format="dimension" name="corner_radius_top_right"/><attr format="dimension" name="corner_radius_bottom_left"/><attr format="dimension" name="corner_radius_bottom_right"/><attr format="dimension" name="border_dash_width"/><attr format="dimension" name="border_dash_gap"/><attr format="dimension" name="border_width_normal"/><attr format="dimension" name="border_width_pressed"/><attr format="dimension" name="border_width_unable"/><attr format="color" name="border_color_normal"/><attr format="color" name="border_color_pressed"/><attr format="color" name="border_color_unable"/><attr format="color" name="background_normal"/><attr format="color" name="background_pressed"/><attr format="color" name="background_unable"/><attr format="color" name="text_color_normal"/><attr format="color" name="text_color_pressed"/><attr format="color" name="text_color_unable"/><attr format="reference" name="icon_src_normal"/><attr format="reference" name="icon_src_pressed"/><attr format="reference" name="icon_src_unable"/><attr format="dimension" name="icon_height"/><attr format="dimension" name="icon_width"/><attr name="icon_direction">
+            <enum name="left" value="1"/>
+            <enum name="top" value="2"/>
+            <enum name="right" value="3"/>
+            <enum name="bottom" value="4"/>
+        </attr><attr format="string" name="text_typeface"/></declare-styleable><declare-styleable name="ArrowTextView"><attr format="dimension" name="radius"/><attr format="dimension" name="arrowWidth"/><attr format="dimension" name="arrowHeight"/><attr format="color" name="bg"/></declare-styleable><declare-styleable name="CircularProgressView"><attr format="float" name="cpv_progress"/><attr format="float" name="cpv_maxProgress"/><attr format="integer" name="cpv_animDuration"/><attr format="integer" name="cpv_animSwoopDuration"/><attr format="integer" name="cpv_animSyncDuration"/><attr format="color" name="cpv_color"/><attr format="dimension" name="cpv_thickness"/><attr format="boolean" name="cpv_indeterminate"/><attr format="boolean" name="cpv_animAutostart"/><attr format="integer" name="cpv_animSteps"/><attr format="float" name="cpv_startAngle"/></declare-styleable><declare-styleable name="PassWordLayoutStyle"><attr format="reference" name="box_input_color"/><attr format="reference" name="box_no_input_color"/><attr format="reference" name="input_line_color"/><attr format="reference" name="text_input_color"/><attr format="dimension" name="interval_width"/><attr format="dimension" name="item_width"/><attr format="dimension" name="item_height"/><attr format="dimension" name="draw_txt_size"/><attr format="dimension" name="draw_box_line_size"/><attr format="boolean" name="is_show_input_line"/><attr name="pass_inputed_type">//密码输入显示内容
+            <flag name="circle" value="0"/>
+            <flag name="stars" value="1"/>
+            <flag name="text" value="2"/>
+        </attr><attr name="box_draw_type">//密码框形状
+            <flag name="rect" value="0"/>
+            <flag name="circle" value="1"/>
+            <flag name="line" value="2"/>
+        </attr><attr name="pass_leng">//密码长度 只考虑4 6 8
+            <flag name="four" value="4"/>
+            <flag name="six" value="6"/>
+            <flag name="eight" value="8"/>
+        </attr></declare-styleable><declare-styleable name="ClipViewLayout"><attr format="enum" name="clipType">
+            <enum name="circle" value="1"/>
+            <enum name="rectangle" value="2"/>
+        </attr><attr format="dimension" name="mHorizontalPadding"/><attr format="dimension" name="clipBorderWidth"/></declare-styleable><declare-styleable name="TriangleView"><attr format="dimension" name="sjv_resolutionWidth"/><attr format="dimension" name="sjv_resolutionHeight"/><attr format="color" name="sjv_color"/><attr name="sjv_direction">
+            <enum name="top" value="0"/>
+            <enum name="bottom" value="1"/>
+            <enum name="right" value="2"/>
+            <enum name="left" value="3"/>
+        </attr></declare-styleable></configuration></mergedItems></merger>

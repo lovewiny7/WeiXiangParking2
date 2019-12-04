@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/values-zh/values-zh.xml",
+            "map": [
+                {
+                    "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/values-zh/strings.xml",
+                    "from": {
+                        "startLines": "12,3,9,7,8,5,4,10,13,2,11,1,6",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "687,121,540,350,423,229,172,589,739,68,638,16,297",
+                        "endColumns": "51,50,48,72,116,67,56,48,56,52,48,51,52",
+                        "endOffsets": "734,167,584,418,535,292,224,633,791,116,682,63,345"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,107,158,207,280,397,465,522,571,628,681,730,782",
+                        "endColumns": "51,50,48,72,116,67,56,48,56,52,48,51,52",
+                        "endOffsets": "102,153,202,275,392,460,517,566,623,676,725,777,830"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh/values-zh.xml",
+            "map": [
+                {
+                    "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/values-zh/strings.xml",
+                    "from": {
+                        "startLines": "12,3,9,7,8,5,4,10,13,2,11,1,6",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "687,121,540,350,423,229,172,589,739,68,638,16,297",
+                        "endColumns": "51,50,48,72,116,67,56,48,56,52,48,51,52",
+                        "endOffsets": "734,167,584,418,535,292,224,633,791,116,682,63,345"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,107,158,207,280,397,465,522,571,628,681,730,782",
+                        "endColumns": "51,50,48,72,116,67,56,48,56,52,48,51,52",
+                        "endOffsets": "102,153,202,275,392,460,517,566,623,676,725,777,830"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -15,6 +15,7 @@
     <application>
         <activity android:name=".takephoto.activity.MyPhotoActivity"/>
         <activity android:name=".takephoto.activity.ClipImageActivity"/>
+        <activity android:name=".winy7.hipermission.PermissionActivity" />
 
         <provider
             android:name="android.support.v4.content.FileProvider"

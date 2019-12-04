@@ -1,0 +1,510 @@
+[
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/ic_mtrl_chip_close_circle.xml",
+        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/832b0256c1e0e6aaaf9c87e81fb335b5/res/drawable/ic_mtrl_chip_close_circle.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/bt_dynamic_del.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/bt_dynamic_del.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/shape_tab_right_normal.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_tab_right_normal.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/bg_text_red.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/bg_text_red.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/shape_button_orange_popup_left.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/waterbase/build/intermediates/packaged_res/debug/drawable/shape_button_orange_popup_left.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/progress_2.png",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/waterbase/build/intermediates/packaged_res/debug/drawable/progress_2.png"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/shape_dialog_positive_btn.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_dialog_positive_btn.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/progress_3.png",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/waterbase/build/intermediates/packaged_res/debug/drawable/progress_3.png"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/selector_et_pay_pass.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/selector_et_pay_pass.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/shape_tab_left_normal.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_tab_left_normal.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/shape_btn_green_light.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_btn_green_light.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/ic_mtrl_chip_checked_black.xml",
+        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/832b0256c1e0e6aaaf9c87e81fb335b5/res/drawable/ic_mtrl_chip_checked_black.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/shape_edit_text_under_line_false.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_edit_text_under_line_false.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/selector_label_bg_orange_white.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/selector_label_bg_orange_white.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/shape_edit_text_under_line.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_edit_text_under_line.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/shape_tab_center_normal.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_tab_center_normal.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/shape_tab_left_selected.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_tab_left_selected.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/divider_line.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/divider_line.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/bg_text_orange_focus.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/bg_text_orange_focus.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/mtrl_snackbar_background.xml",
+        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/832b0256c1e0e6aaaf9c87e81fb335b5/res/drawable/mtrl_snackbar_background.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/shape_edit_text_fillet.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_edit_text_fillet.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/tooltip_frame_dark.xml",
+        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/drawable/tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/selector_keyboard_key.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/selector_keyboard_key.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/progress_5.png",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/waterbase/build/intermediates/packaged_res/debug/drawable/progress_5.png"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/selector_text_click.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/selector_text_click.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/design_bottom_navigation_item_background.xml",
+        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/832b0256c1e0e6aaaf9c87e81fb335b5/res/drawable/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/shape_line_vertical.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_line_vertical.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/shape_btn_border_white.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_btn_border_white.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/shape_btn_blue.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_btn_blue.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/oval_solid_save_bg.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/oval_solid_save_bg.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/tooltip_frame_light.xml",
+        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/drawable/tooltip_frame_light.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/shape_tab_center_selected.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_tab_center_selected.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/bg_text_black.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/bg_text_black.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/shape_home_parking_names_bg.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_home_parking_names_bg.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/80f03b21c624fee0b34af43aae69941e/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/seekbar_thumb.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/seekbar_thumb.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/shape_label_false_white.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_label_false_white.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/shape_label_true_orange.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_label_true_orange.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/abc_list_divider_material.xml",
+        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/drawable/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/shape_button_orange_5.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/waterbase/build/intermediates/packaged_res/debug/drawable/shape_button_orange_5.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/shape_et_bg_white.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_et_bg_white.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/dialog_background_parent_moving.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/dialog_background_parent_moving.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/shape_toast_gray.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/waterbase/build/intermediates/packaged_res/debug/drawable/shape_toast_gray.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/mtrl_tabs_default_indicator.xml",
+        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/832b0256c1e0e6aaaf9c87e81fb335b5/res/drawable/mtrl_tabs_default_indicator.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/80f03b21c624fee0b34af43aae69941e/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/design_password_eye.xml",
+        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/832b0256c1e0e6aaaf9c87e81fb335b5/res/drawable/design_password_eye.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/progress_8.png",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/waterbase/build/intermediates/packaged_res/debug/drawable/progress_8.png"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/832b0256c1e0e6aaaf9c87e81fb335b5/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/layer_list_seekbar.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/layer_list_seekbar.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/selector_general_approval_rb.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/selector_general_approval_rb.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/selector_pickerview_btn.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/waterbase/build/intermediates/packaged_res/debug/drawable/selector_pickerview_btn.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/shape_text_circle_orange.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_text_circle_orange.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/bg_text_black_first.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/bg_text_black_first.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/shape_button_null_background.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_button_null_background.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/shape_check_bg.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_check_bg.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/shape_bg_white.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_bg_white.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/selector_tab_center.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/selector_tab_center.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/progress_6.png",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/waterbase/build/intermediates/packaged_res/debug/drawable/progress_6.png"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/shape_dialog_negative_btn.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_dialog_negative_btn.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/80f03b21c624fee0b34af43aae69941e/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/spacer_30.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/spacer_30.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/selector_general_approval_bottom_rb.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/selector_general_approval_bottom_rb.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/radio_button_text_color.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/radio_button_text_color.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/shape_dialog_bg.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_dialog_bg.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/shape_dialog_single_btn.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_dialog_single_btn.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/search_shape.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/search_shape.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/shape_button_orange_4.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/waterbase/build/intermediates/packaged_res/debug/drawable/shape_button_orange_4.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/bg_text_black_mid.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/bg_text_black_mid.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/selector_et_under_line.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/selector_et_under_line.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/shape_tab_center_select.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_tab_center_select.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/line_8dp_with_border.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/line_8dp_with_border.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/selector_text_click_bg_base_title.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/selector_text_click_bg_base_title.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/radio_button_background.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/radio_button_background.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/shape_edit_text_cursor_color.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_edit_text_cursor_color.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/832b0256c1e0e6aaaf9c87e81fb335b5/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/shape_btn_next.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_btn_next.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/shape_text_circle.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_text_circle.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/shape_tab_right_selected.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_tab_right_selected.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/832b0256c1e0e6aaaf9c87e81fb335b5/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/shape_button_orange_popup.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/waterbase/build/intermediates/packaged_res/debug/drawable/shape_button_orange_popup.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/shape_button_orange_popup_right.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/waterbase/build/intermediates/packaged_res/debug/drawable/shape_button_orange_popup_right.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/shape_click_key_bg_normal.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_click_key_bg_normal.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/shape_input_area.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_input_area.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/shape_click_key_bg_pressed.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/shape_click_key_bg_pressed.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/80f03b21c624fee0b34af43aae69941e/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/shape_bg_popup.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/waterbase/build/intermediates/packaged_res/debug/drawable/shape_bg_popup.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/progress_round.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/waterbase/build/intermediates/packaged_res/debug/drawable/progress_round.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/progress_1.png",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/waterbase/build/intermediates/packaged_res/debug/drawable/progress_1.png"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/progress_4.png",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/waterbase/build/intermediates/packaged_res/debug/drawable/progress_4.png"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/ic_mtrl_chip_checked_circle.xml",
+        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/832b0256c1e0e6aaaf9c87e81fb335b5/res/drawable/ic_mtrl_chip_checked_circle.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/selector_tab_left.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/selector_tab_left.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/progress_7.png",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/waterbase/build/intermediates/packaged_res/debug/drawable/progress_7.png"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/selector_tab_right.xml",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/res/drawable/selector_tab_right.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/drawable/abc_ic_clear_material.xml"
+    }
+]

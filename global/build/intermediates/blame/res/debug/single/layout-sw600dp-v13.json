@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/layout-sw600dp-v13/mtrl_layout_snackbar.xml",
+        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/832b0256c1e0e6aaaf9c87e81fb335b5/res/layout-sw600dp-v13/mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/832b0256c1e0e6aaaf9c87e81fb335b5/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    }
+]

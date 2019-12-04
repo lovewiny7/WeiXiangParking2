@@ -16,6 +16,15 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+    //支持dataBinding
+    dataBinding {
+        enabled = true
+    }
+    //支持jdk1.8
+    compileOptions {
+        targetCompatibility 1.8
+        sourceCompatibility 1.8
+    }
 }
 
 dependencies {
@@ -26,4 +35,21 @@ dependencies {
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
     implementation project(':global')
+    implementation 'com.amap.api:3dmap:7.1.0'
+
+    //2D 地图
+
+//    implementation 'com.amap.api:map2d:6.0.0'
+
+    //导航
+
+//    implementation 'com.amap.api:navi-3dmap:7.1.0_3dmap7.1.0'
+
+    //搜索
+
+    implementation 'com.amap.api:search:7.1.0'
+
+    //定位
+
+    implementation 'com.amap.api:location:4.7.2'
 }

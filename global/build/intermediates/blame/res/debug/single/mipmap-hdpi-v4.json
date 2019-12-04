@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/mipmap-hdpi-v4/topbar_icon_back_white.png",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/waterbase/build/intermediates/packaged_res/debug/mipmap-hdpi-v4/topbar_icon_back_white.png"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/mipmap-hdpi-v4/topbar_icon_more_blue.png",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/waterbase/build/intermediates/packaged_res/debug/mipmap-hdpi-v4/topbar_icon_more_blue.png"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/mipmap-hdpi-v4/topbar_icon_cancle_white.png",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/waterbase/build/intermediates/packaged_res/debug/mipmap-hdpi-v4/topbar_icon_cancle_white.png"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/res/merged/debug/mipmap-hdpi-v4/topbar_icon_help_white.png",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/waterbase/build/intermediates/packaged_res/debug/mipmap-hdpi-v4/topbar_icon_help_white.png"
+    }
+]

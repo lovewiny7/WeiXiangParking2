@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/AndroidManifest.xml:1:1-31:12
+	package
+		ADDED from /Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/AndroidManifest.xml:3:11-31
+		INJECTED from /Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/AndroidManifest.xml
+		ADDED from /Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/AndroidManifest.xml:1:1-31:12
+		INJECTED from /Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/AndroidManifest.xml:2:11-57
+	android:versionCode
+		INJECTED from /Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/AndroidManifest.xml
+		ADDED from /Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/AndroidManifest.xml:1:1-31:12
+		INJECTED from /Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from /Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/AndroidManifest.xml:12:5-13:59
+	tools:ignore
+		ADDED from /Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/AndroidManifest.xml:13:22-57
+	android:name
+		ADDED from /Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/AndroidManifest.xml:12:22-81
+application
+ADDED from /Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/AndroidManifest.xml:15:5-30:19
+activity#com.global.takephoto.activity.MyPhotoActivity
+ADDED from /Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/AndroidManifest.xml:16:9-71
+	android:name
+		ADDED from /Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/AndroidManifest.xml:16:19-69
+activity#com.global.takephoto.activity.ClipImageActivity
+ADDED from /Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/AndroidManifest.xml:17:9-73
+	android:name
+		ADDED from /Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/AndroidManifest.xml:17:19-71
+activity#com.global.winy7.hipermission.PermissionActivity
+ADDED from /Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/AndroidManifest.xml:18:9-75
+	android:name
+		ADDED from /Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/AndroidManifest.xml:18:19-72
+provider#android.support.v4.content.FileProvider
+ADDED from /Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/AndroidManifest.xml:20:9-28:20
+	android:grantUriPermissions
+		ADDED from /Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/AndroidManifest.xml:24:13-47
+	android:authorities
+		ADDED from /Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/AndroidManifest.xml:22:13-64
+	android:exported
+		ADDED from /Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/AndroidManifest.xml:23:13-37
+	android:name
+		ADDED from /Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/AndroidManifest.xml:21:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/AndroidManifest.xml:25:13-27:53
+	android:resource
+		ADDED from /Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/AndroidManifest.xml:27:17-51
+	android:name
+		ADDED from /Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/AndroidManifest.xml:26:17-67
+uses-sdk
+INJECTED from /Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/AndroidManifest.xml
+INJECTED from /Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/AndroidManifest.xml
+INJECTED from /Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/AndroidManifest.xml
+INJECTED from /Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/AndroidManifest.xml
+		ADDED from /Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/AndroidManifest.xml
+		ADDED from /Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Home/as2019/wx/WeiXiangParking/global/src/main/AndroidManifest.xml
