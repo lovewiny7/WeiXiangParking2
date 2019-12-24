@@ -9,7 +9,9 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/gaodemap" />
             <option value="$PROJECT_DIR$/global" />
+            <option value="$PROJECT_DIR$/huanxin" />
             <option value="$PROJECT_DIR$/waterbase" />
           </set>
         </option>

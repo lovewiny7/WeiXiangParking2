@@ -1,4 +1,31 @@
-#Tue Nov 26 17:38:33 CST 2019
-base.0=/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/transforms/dexMerger/debug/0
+#Tue Dec 24 16:01:04 CST 2019
+path.1=classes.dex
 path.0=classes.dex
+renamed.9=classes10.dex
+renamed.8=classes9.dex
+renamed.7=classes8.dex
+renamed.6=classes7.dex
+renamed.5=classes6.dex
+renamed.4=classes5.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+base.9=/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/transforms/dexMerger/debug/9
+renamed.1=classes2.dex
+base.8=/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/transforms/dexMerger/debug/7
 renamed.0=classes.dex
+base.7=/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/transforms/dexMerger/debug/8
+base.6=/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/transforms/dexMerger/debug/5
+base.5=/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/transforms/dexMerger/debug/6
+base.4=/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/transforms/dexMerger/debug/3
+base.3=/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/transforms/dexMerger/debug/4
+base.2=/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/transforms/dexMerger/debug/10
+base.1=/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/transforms/dexMerger/debug/1
+base.0=/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/transforms/dexMerger/debug/2
+path.9=classes.dex
+path.8=classes.dex
+path.7=classes.dex
+path.6=classes.dex
+path.5=classes.dex
+path.4=classes.dex
+path.3=classes.dex
+path.2=classes.dex

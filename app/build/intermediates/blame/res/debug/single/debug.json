@@ -44,6 +44,10 @@
         "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/drawable/abc_tab_indicator_material.xml"
     },
     {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/layout_item_pay_and_out.xml.flat",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/app/src/main/res/layout/item_pay_and_out.xml"
+    },
+    {
         "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_design_ic_visibility.png.flat",
         "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/832b0256c1e0e6aaaf9c87e81fb335b5/res/drawable-xxhdpi-v4/design_ic_visibility.png"
     },
@@ -52,8 +56,12 @@
         "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/drawable-v21/abc_dialog_material_background.xml"
     },
     {
-        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4_ic_turn_on.png.flat",
-        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/packaged_res/debug/mipmap-xxhdpi-v4/ic_turn_on.png"
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_enter_use_hand.png.flat",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/app/src/main/res/mipmap-xxxhdpi/ic_enter_use_hand.png"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/drawable_shape_home_bottom_radius.xml.flat",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/app/src/main/res/drawable/shape_home_bottom_radius.xml"
     },
     {
         "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/drawable-v21_notification_action_background.xml.flat",
@@ -206,6 +214,10 @@
     {
         "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/layout_design_layout_tab_icon.xml.flat",
         "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/832b0256c1e0e6aaaf9c87e81fb335b5/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_turn_on.png.flat",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/app/src/main/res/mipmap-xxhdpi/ic_turn_on.png"
     },
     {
         "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/anim_fade_in5.xml.flat",
@@ -420,12 +432,20 @@
         "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/packaged_res/debug/anim/fade_in.xml"
     },
     {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/layout_a_report_to_repair.xml.flat",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/app/src/main/res/layout/a_report_to_repair.xml"
+    },
+    {
         "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/anim_abc_grow_fade_in_from_bottom.xml.flat",
         "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/anim/abc_grow_fade_in_from_bottom.xml"
     },
     {
         "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/drawable_selector_text_click_bg_base_title.xml.flat",
         "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/packaged_res/debug/drawable/selector_text_click_bg_base_title.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/drawable_text_left_border_1dp.xml.flat",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/app/src/main/res/drawable/text_left_border_1dp.xml"
     },
     {
         "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/layout_include_pickerview_topbar.xml.flat",
@@ -558,6 +578,10 @@
     {
         "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_background.png.flat",
         "source": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_top_menu.png.flat",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/app/src/main/res/mipmap-xhdpi/ic_top_menu.png"
     },
     {
         "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4_ic_unchecked_box.png.flat",
@@ -696,6 +720,10 @@
         "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/packaged_res/debug/layout/permission_info_item.xml"
     },
     {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_top_menu.png.flat",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/app/src/main/res/mipmap-xxhdpi/ic_top_menu.png"
+    },
+    {
         "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/layout_list_dialog_plus_plus.xml.flat",
         "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/packaged_res/debug/layout/list_dialog_plus_plus.xml"
     },
@@ -830,6 +858,10 @@
     {
         "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/drawable_radio_button_background.xml.flat",
         "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/packaged_res/debug/drawable/radio_button_background.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/layout_item_photo_data.xml.flat",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/app/src/main/res/layout/item_photo_data.xml"
     },
     {
         "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/drawable_abc_btn_borderless_material.xml.flat",
@@ -1076,6 +1108,10 @@
         "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/layout/abc_list_menu_item_checkbox.xml"
     },
     {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_enter_bg.png.flat",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/app/src/main/res/mipmap-xxhdpi/ic_enter_bg.png"
+    },
+    {
         "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/drawable_abc_item_background_holo_dark.xml.flat",
         "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/drawable/abc_item_background_holo_dark.xml"
     },
@@ -1252,10 +1288,6 @@
         "source": "/Volumes/Home/as2019/wx/WeiXiangParking/waterbase/build/intermediates/packaged_res/debug/anim/fade_out1.xml"
     },
     {
-        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4_ic_turn_on.png.flat",
-        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ic_turn_on.png"
-    },
-    {
         "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
         "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/80f03b21c624fee0b34af43aae69941e/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
     },
@@ -1318,6 +1350,10 @@
     {
         "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
         "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/layout_left_menu.xml.flat",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/app/src/main/res/layout/left_menu.xml"
     },
     {
         "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -1426,6 +1462,10 @@
     {
         "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/anim_fade_out5.xml.flat",
         "source": "/Volumes/Home/as2019/wx/WeiXiangParking/waterbase/build/intermediates/packaged_res/debug/anim/fade_out5.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_pay_going.png.flat",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/app/src/main/res/mipmap-xhdpi/ic_pay_going.png"
     },
     {
         "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/raw_capk.pkcs12.flat",
@@ -1546,6 +1586,10 @@
     {
         "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/drawable_bg_text_red.xml.flat",
         "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/packaged_res/debug/drawable/bg_text_red.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_pay_going.png.flat",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/app/src/main/res/mipmap-xxxhdpi/ic_pay_going.png"
     },
     {
         "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/drawable_shape_home_parking_names_bg.xml.flat",
@@ -1748,6 +1792,10 @@
         "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/layout_a_sign_parking.xml.flat",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/app/src/main/res/layout/a_sign_parking.xml"
+    },
+    {
         "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4_icon_qx_card.png.flat",
         "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/packaged_res/debug/mipmap-xxhdpi-v4/icon_qx_card.png"
     },
@@ -1848,6 +1896,10 @@
         "source": "/Volumes/Home/as2019/wx/WeiXiangParking/waterbase/build/intermediates/packaged_res/debug/anim/dialog_out_bottom.xml"
     },
     {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/layout_a_history_event.xml.flat",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/app/src/main/res/layout/a_history_event.xml"
+    },
+    {
         "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4_navigation_contactlist_pressed.png.flat",
         "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/packaged_res/debug/mipmap-xhdpi-v4/navigation_contactlist_pressed.png"
     },
@@ -1858,6 +1910,10 @@
     {
         "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/drawable_shape_dialog_positive_btn.xml.flat",
         "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/packaged_res/debug/drawable/shape_dialog_positive_btn.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_free_out.png.flat",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/app/src/main/res/mipmap-xhdpi/ic_free_out.png"
     },
     {
         "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4_bg_popup_text.png.flat",
@@ -2128,6 +2184,10 @@
         "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/packaged_res/debug/mipmap-xhdpi-v4/permission_ic_sms.png"
     },
     {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/drawable_shape_home_top_radius.xml.flat",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/app/src/main/res/drawable/shape_home_top_radius.xml"
+    },
+    {
         "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4_ic_del.png.flat",
         "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/packaged_res/debug/mipmap-xxhdpi-v4/ic_del.png"
     },
@@ -2220,12 +2280,12 @@
         "source": "/Volumes/Home/as2019/wx/WeiXiangParking/waterbase/build/intermediates/packaged_res/debug/anim/dialog_in_bottom.xml"
     },
     {
-        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/drawable_abc_ic_go_search_api_material.xml.flat",
-        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/drawable/abc_ic_go_search_api_material.xml"
-    },
-    {
         "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/drawable_abc_ratingbar_material.xml.flat",
         "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/drawable_abc_ic_go_search_api_material.xml.flat",
+        "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/drawable/abc_ic_go_search_api_material.xml"
     },
     {
         "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
@@ -2286,6 +2346,10 @@
     {
         "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
         "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_enter_bg.png.flat",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/app/src/main/res/mipmap-xhdpi/ic_enter_bg.png"
     },
     {
         "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
@@ -2428,12 +2492,12 @@
         "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4_progress_8.png.flat",
-        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/waterbase/build/intermediates/packaged_res/debug/mipmap-xxhdpi-v4/progress_8.png"
-    },
-    {
         "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/drawable_abc_btn_colored_material.xml.flat",
         "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4_progress_8.png.flat",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/waterbase/build/intermediates/packaged_res/debug/mipmap-xxhdpi-v4/progress_8.png"
     },
     {
         "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
@@ -2442,6 +2506,10 @@
     {
         "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/drawable_notification_bg_low.xml.flat",
         "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/80f03b21c624fee0b34af43aae69941e/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_app_icon.png.flat",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/app/src/main/res/mipmap-xhdpi/ic_app_icon.png"
     },
     {
         "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/layout_abc_action_menu_item_layout.xml.flat",
@@ -2454,6 +2522,10 @@
     {
         "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4_topbar_icon_help_white.png.flat",
         "source": "/Volumes/Home/as2019/wx/WeiXiangParking/waterbase/build/intermediates/packaged_res/debug/mipmap-xxhdpi-v4/topbar_icon_help_white.png"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_enter_use_hand.png.flat",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/app/src/main/res/mipmap-xhdpi/ic_enter_use_hand.png"
     },
     {
         "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4_address_book.png.flat",
@@ -2518,6 +2590,14 @@
     {
         "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
         "source": "/Volumes/Home/as2019/wx/WeiXiangParking/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_turn_on.png.flat",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/app/src/main/res/mipmap-xhdpi/ic_turn_on.png"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_pay_out.png.flat",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/app/src/main/res/mipmap-xxxhdpi/ic_pay_out.png"
     },
     {
         "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
@@ -2952,6 +3032,10 @@
         "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/80f03b21c624fee0b34af43aae69941e/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_free_out.png.flat",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/app/src/main/res/mipmap-xxxhdpi/ic_free_out.png"
+    },
+    {
         "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_half_black_48dp.png.flat",
         "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/drawable-mdpi-v4/abc_ic_star_half_black_48dp.png"
     },
@@ -3022,6 +3106,10 @@
     {
         "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/drawable_ic_mtrl_chip_checked_black.xml.flat",
         "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/832b0256c1e0e6aaaf9c87e81fb335b5/res/drawable/ic_mtrl_chip_checked_black.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_pay_out.png.flat",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/app/src/main/res/mipmap-xhdpi/ic_pay_out.png"
     },
     {
         "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/layout_input_keyboard_view.xml.flat",
@@ -3120,6 +3208,10 @@
         "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/packaged_res/debug/drawable/selector_general_approval_rb.xml"
     },
     {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/layout_item_enter_car.xml.flat",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/app/src/main/res/layout/item_enter_car.xml"
+    },
+    {
         "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/drawable_design_password_eye.xml.flat",
         "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/832b0256c1e0e6aaaf9c87e81fb335b5/res/drawable/design_password_eye.xml"
     },
@@ -3194,6 +3286,10 @@
     {
         "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/drawable_abc_dialog_material_background.xml.flat",
         "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_top_camera.png.flat",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/app/src/main/res/mipmap-mdpi/ic_top_camera.png"
     },
     {
         "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
@@ -3296,6 +3392,10 @@
         "source": "/Volumes/Home/as2019/wx/WeiXiangParking/global/build/intermediates/packaged_res/debug/mipmap-xxhdpi-v4/ic_more.png"
     },
     {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/layout_a_map.xml.flat",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/app/src/main/res/layout/a_map.xml"
+    },
+    {
         "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_pressed_holo_light.9.png.flat",
         "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png"
     },
@@ -3392,6 +3492,10 @@
         "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/layout/abc_screen_simple.xml"
     },
     {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_top_camera.png.flat",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/app/src/main/res/mipmap-xxhdpi/ic_top_camera.png"
+    },
+    {
         "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
         "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/drawable-xxxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
     },
@@ -3474,6 +3578,10 @@
     {
         "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
         "source": "/Users/mc309/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8a989126ebd2ecdbc913c5c1abda5cb6/res/drawable-xxhdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/layout_item_history_event.xml.flat",
+        "source": "/Volumes/Home/as2019/wx/WeiXiangParking/app/src/main/res/layout/item_history_event.xml"
     },
     {
         "merged": "/Volumes/Home/as2019/wx/WeiXiangParking/app/build/intermediates/res/merged/debug/animator_mtrl_btn_unelevated_state_list_anim.xml.flat",

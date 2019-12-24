@@ -53,7 +53,7 @@ public class PopUtil {
         
         RecyclerView recyclerView = popup_window_list.findViewById(R.id.rv_parking_names);
         LinearLayout ll_popup_content = popup_window_list.findViewById(R.id.ll_popup_content);
-
+        LinearLayout ll_select = popup_window_list.findViewById(com.global.R.id.ll_select);
 //        tvContent.setText(content);
         LinearLayoutManager linearLayoutManager = new LinearLayoutManager(activity);
         linearLayoutManager.setOrientation(LinearLayoutManager.VERTICAL);
@@ -63,12 +63,7 @@ public class PopUtil {
         recyclerView.addItemDecoration(new RecycleViewDivider(activity, LinearLayoutManager.VERTICAL));
         recyclerView.setAdapter(adapter);
         adapter.setData(contents);
-        adapter.setItemClickListener(new ItemClickListener<String>() {
-            @Override
-            public void itemClick(View v, String item, int index) {
-                ToastUtil.showToast(activity, "click--->" +item);
-            }
-        });
+        
         
         PopupWindow popupWindow = new PopupWindow(ll_popup_content, ViewGroup.LayoutParams.MATCH_PARENT,  ViewGroup.LayoutParams.MATCH_PARENT, true);
         
@@ -87,11 +82,25 @@ public class PopUtil {
             popupWindow.dismiss();
             setArrow((TextView) parent, R.mipmap.icon_qx_down);
         });
-        setArrow((TextView) parent, R.mipmap.icon_qx_up);
-        // PopupWindow的显示及位置设置
-//        popupWindow.showAtLocation(parent, Gravity.BOTTOM, 0, 0);
-        popupWindow.showAsDropDown(parent, Gravity.BOTTOM, 0, 0);
         
+        // 条目点击事件
+        adapter.setItemClickListener((ItemClickListener<String>) (v, item, index) -> {
+            ToastUtil.showToast(activity, "click--->" +item);
+            ((TextView)parent).setText(item);
+            setArrow((TextView) parent, R.mipmap.icon_qx_down);
+            popupWindow.dismiss();
+        });
+        setArrow((TextView) parent, R.mipmap.icon_qx_up);
+        
+        // PopupWindow的显示及位置设置
+    
+        //测量并设置 ll_select 位置
+        int[] location = new int[2];
+        parent.getLocationOnScreen(location);
+        popupWindow.showAtLocation(parent, Gravity.TOP, 0, 0);
+        LinearLayout.LayoutParams layoutParams = (LinearLayout.LayoutParams) ll_select.getLayoutParams();
+//        LogUtils.d(TAG, "click--->" + ll_select.getLayoutParams());
+        layoutParams.setMargins(0, location[1], 0, 0);
     }
     
     /**

@@ -96,20 +96,19 @@ public class HiPermission {
     }
 
     /**
-     * 检查多个权限
+     * 检查多个权限 自定义多个权限
      *
      * @param callback
      */
-    public void checkMutiPermission(PermissionCallback callback) {
+    public void checkMutiPermission(PermissionCallback callback,List<PermissionItem> permissionItems) {
         if (Build.VERSION.SDK_INT < Build.VERSION_CODES.M) {
             if (callback != null)
                 callback.onFinish();
             return;
         }
-
         if (mCheckPermissions == null) {
             mCheckPermissions = new ArrayList<>();
-            mCheckPermissions.addAll(getNormalPermissions());
+            mCheckPermissions.addAll(permissionItems);
         }
 
         //检查权限，过滤已允许的权限
@@ -127,6 +126,40 @@ public class HiPermission {
         }
 
 
+    }
+    
+    /**
+     * 检查多个权限
+     *
+     * @param callback
+     */
+    public void checkMutiPermission(PermissionCallback callback) {
+        if (Build.VERSION.SDK_INT < Build.VERSION_CODES.M) {
+            if (callback != null)
+                callback.onFinish();
+            return;
+        }
+        
+        if (mCheckPermissions == null) {
+            mCheckPermissions = new ArrayList<>();
+            mCheckPermissions.addAll(getNormalPermissions());
+        }
+        
+        //检查权限，过滤已允许的权限
+        Iterator<PermissionItem> iterator = mCheckPermissions.listIterator();
+        while (iterator.hasNext()) {
+            if (checkPermission(mContext, iterator.next().Permission))
+                iterator.remove();
+        }
+        mCallback = callback;
+        if (mCheckPermissions.size() > 0) {
+            startActivity();
+        } else {
+            if (callback != null)
+                callback.onFinish();
+        }
+        
+        
     }
 
     /**

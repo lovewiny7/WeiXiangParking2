@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/WeiXiangParking.iml" filepath="$PROJECT_DIR$/WeiXiangParking.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gaodemap/gaodemap.iml" filepath="$PROJECT_DIR$/gaodemap/gaodemap.iml" />
       <module fileurl="file://$PROJECT_DIR$/global/global.iml" filepath="$PROJECT_DIR$/global/global.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huanxin/huanxin.iml" filepath="$PROJECT_DIR$/huanxin/huanxin.iml" />
       <module fileurl="file://$PROJECT_DIR$/waterbase/waterbase.iml" filepath="$PROJECT_DIR$/waterbase/waterbase.iml" />
     </modules>
   </component>

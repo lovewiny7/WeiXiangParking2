@@ -14,6 +14,7 @@ import java.io.IOException;
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 import java.io.StreamCorruptedException;
+import java.lang.reflect.Type;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Set;
@@ -22,7 +23,7 @@ import java.util.Set;
  * PreferencesManager管理类，提供get和put方法来重写SharedPreferences所提供的方法
  */
 public class PreferencesManager {
-
+    
     private final String tag = PreferencesManager.class.getSimpleName();
     private Context mContext;
     private SharedPreferences preferences;
@@ -31,17 +32,17 @@ public class PreferencesManager {
     public static final String THEME = "Theme";
     public static final String LANG = "Lang";
     private static PreferencesManager instance;
-
+    
     /**
      * 构造方法
      *
      * @param context
      */
     private PreferencesManager(Context context) {
-
+        
         this(context, shareName);
     }
-
+    
     /**
      * 构造方法
      *
@@ -52,11 +53,11 @@ public class PreferencesManager {
         mContext = context;
         preferences = context.getSharedPreferences(shareName, Context.MODE_PRIVATE);
     }
-
+    
     public static PreferencesManager getInstance(Context context) {
         return getInstance(context, shareName);
     }
-
+    
     public static PreferencesManager getInstance(Context context, String shareName) {
         if (instance == null) {
             synchronized (PreferencesManager.class) {
@@ -67,7 +68,7 @@ public class PreferencesManager {
         }
         return instance;
     }
-
+    
     public void put(String key, boolean value) {
         Editor edit = preferences.edit();
         if (edit != null) {
@@ -75,7 +76,7 @@ public class PreferencesManager {
             edit.apply();
         }
     }
-
+    
     public void put(String key, String value) {
         Editor edit = preferences.edit();
         if (edit != null) {
@@ -83,7 +84,7 @@ public class PreferencesManager {
             edit.apply();
         }
     }
-
+    
     public void put(String key, int value) {
         Editor edit = preferences.edit();
         if (edit != null) {
@@ -91,7 +92,7 @@ public class PreferencesManager {
             edit.apply();
         }
     }
-
+    
     public void put(String key, float value) {
         Editor edit = preferences.edit();
         if (edit != null) {
@@ -99,7 +100,7 @@ public class PreferencesManager {
             edit.apply();
         }
     }
-
+    
     public void put(String key, long value) {
         Editor edit = preferences.edit();
         if (edit != null) {
@@ -107,7 +108,7 @@ public class PreferencesManager {
             edit.apply();
         }
     }
-
+    
     public void put(String key, Set<String> value) {
         Editor edit = preferences.edit();
         if (edit != null) {
@@ -115,7 +116,7 @@ public class PreferencesManager {
             edit.apply();
         }
     }
-
+    
     public void put(String key, Object object) {
         // 创建字节输出流
         ByteArrayOutputStream baos = new ByteArrayOutputStream();
@@ -146,15 +147,15 @@ public class PreferencesManager {
             }
         }
     }
-
+    
     public String get(String key) {
         return preferences.getString(key, "");
     }
-
+    
     public String get(String key, String defValue) {
         return preferences.getString(key, defValue);
     }
-
+    
     // 移除key
     public void remove(String key) {
         Editor edit = preferences.edit();
@@ -163,27 +164,27 @@ public class PreferencesManager {
             edit.apply();
         }
     }
-
+    
     public boolean get(String key, boolean defValue) {
         return preferences.getBoolean(key, defValue);
     }
-
+    
     public int get(String key, int defValue) {
         return preferences.getInt(key, defValue);
     }
-
+    
     public float get(String key, float defValue) {
         return preferences.getFloat(key, defValue);
     }
-
+    
     public long get(String key, long defValue) {
         return preferences.getLong(key, defValue);
     }
-
+    
     public Set<String> get(String key, Set<String> defValue) {
         return preferences.getStringSet(key, defValue);
     }
-
+    
     @SuppressWarnings("unchecked")
     public <T> T get(String key, Class<T> clazz) {
         if (preferences.contains(key)) {
@@ -217,27 +218,27 @@ public class PreferencesManager {
         }
         return null;
     }
-
+    
     public int getTheme(int defThemeId) {
         return instance.get(THEME, defThemeId);
     }
-
+    
     public void setTheme(int themeId) {
         instance.put(THEME, themeId);
     }
-
+    
     public String getLanguage(String defLang) {
         return instance.get(LANG, defLang);
     }
-
+    
     public void setLang(String Language) {
         instance.put(LANG, Language);
     }
-
+    
     public void clearAll() {
         preferences.edit().clear().apply();
     }
-
+    
     /**
      * 保存List 可以叠加保存
      *
@@ -246,7 +247,8 @@ public class PreferencesManager {
      */
     public <T> void setDataList(Context context, String tag, List<T> datalist) {
         PreferencesManager instance = PreferencesManager.getInstance(context);
-        List<T> tagList = instance.getDataList(tag);
+        List<T> tagList = instance.getDataList(tag, new TypeToken<List<T>>() {
+        }.getType());
         if (null == datalist || datalist.size() <= 0) {
             return;
         } else if (tagList.size() > 0) {
@@ -258,7 +260,7 @@ public class PreferencesManager {
                 }
             }
         }
-
+        
         Gson gson = new Gson();
         //转换成json数据，再保存
         String strJson = gson.toJson(datalist);
@@ -266,25 +268,27 @@ public class PreferencesManager {
         edit.clear();
         edit.putString(tag, strJson);
         edit.apply();
-
+        
     }
-
+    
     /**
      * 获取List
      *
      * @param tag
      * @return
      */
-    public <T> List<T> getDataList(String tag) {
+    public <T> List<T> getDataList(String tag, Type type) {
         List<T> datalist = new ArrayList<T>();
         String strJson = preferences.getString(tag, null);
         if (null == strJson) {
             return datalist;
         }
         Gson gson = new Gson();
-        datalist = gson.fromJson(strJson, new TypeToken<List<T>>() {
-        }.getType());
+//        Type type = new TypeToken<List<T>>() {
+//        }.getType();
+//        LogUtil.e("CAO","---type-------->"+type.getTypeName());
+        datalist = gson.fromJson(strJson, type);
         return datalist;
-
+        
     }
 }

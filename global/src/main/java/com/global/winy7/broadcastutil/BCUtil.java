@@ -16,22 +16,25 @@ import android.content.IntentFilter;
  */
 public class BCUtil {
     
-    private static String action;
-    public static String ADD_ADDRESS = "ADD_ADDRESS";   // 新增地址
+    public static String SIGN_ADDRESS = "ADD_ADDRESS";   // 打卡位置
     public static String DEL_ADDRESS = "DEL_ADDRESS";   // 删除地址
     public static String EDIT_ADDRESS = "EDIT_ADDRESS"; // 修改地址
     
-    public static void initBCUtil(String action) {
-        BCUtil.action = action;
-    }
+
     
-    public static Intent sendBroadcastIntent() {
+    public static Intent sendBroadcastIntent(String key) {
         
         Intent intent = new Intent();
-        intent.setAction(action);
+        intent.setAction(key);
         return intent;
     }
-    
+    public static Intent sendBroadcastIntent(String key, String value) {
+        
+        Intent intent = new Intent();
+        intent.putExtra(key,value);
+        intent.setAction(key);
+        return intent;
+    }
     
     private class myBroadcastReceiver extends BroadcastReceiver {
     
@@ -42,10 +45,11 @@ public class BCUtil {
         }
     }
     
-    public static IntentFilter getBroadcastIntent() {
+    public static IntentFilter getBroadcastIntent(String key) {
         
         IntentFilter intentFilter = new IntentFilter();
-        intentFilter.addAction(action);
+        intentFilter.addAction(key);
         return intentFilter;
+        
     }
 }

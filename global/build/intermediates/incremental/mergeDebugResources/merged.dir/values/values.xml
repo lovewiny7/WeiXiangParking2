@@ -42,6 +42,7 @@
         <enum name="invisible" value="1"/>
     </attr>
     <attr name="floatingActionButtonStyle"/>
+    <attr format="string" name="fontPath"/>
     <attr format="dimension" name="height"/>
     <attr format="reference" name="hideMotionSpec"/>
     <attr format="boolean" name="isLightTheme"/>
@@ -202,6 +203,7 @@
     <color name="base_title_bg">#009CFF</color>
     <color name="base_title_line">#FF4081</color>
     <color name="black">#000000</color>
+    <color name="black_333">#333333</color>
     <color name="black_light">#4c4c4c</color>
     <color name="blue">#5b87f8</color>
     <color name="blue_home_mark">#1297db</color>
@@ -1088,6 +1090,7 @@
     <item name="action_bar_spinner" type="id"/>
     <item name="action_menu_divider" type="id"/>
     <item name="action_menu_presenter" type="id"/>
+    <item name="calligraphy_tag_id" type="id"/>
     <item name="dataBinding" type="id"/>
     <item name="ghost_view" type="id"/>
     <item name="home" type="id"/>
@@ -3938,7 +3941,7 @@
     <style name="line_1dp_ver">
         <item name="android:layout_width">1dp</item>
         <item name="android:layout_height">match_parent</item>
-        <item name="android:background">#55cccccc</item>
+        <item name="android:background">#F08721</item>
     </style>
     <style name="line_1px">
         <item name="android:layout_width">match_parent</item>
@@ -3956,6 +3959,11 @@
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">3dp</item>
         <item name="android:background">#55cccccc</item>
+    </style>
+    <style name="line_3dp_ver">
+        <item name="android:layout_width">3dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">#F08721</item>
     </style>
     <style name="line_8dp">
         <item name="android:layout_width">match_parent</item>

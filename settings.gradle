@@ -1,1 +1,1 @@
-include ':app',':waterbase',':global'
+include ':app',':waterbase',':global', ':huanxin', ':gaodemap'

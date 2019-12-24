@@ -38,6 +38,7 @@ public class PopAdapter extends BaseAdapter<String>{
     @Override
     public void convert(BaseViewHolder holder, String data, int index) {
         ItemPopWindowListBinding binding = DataBindingUtil.bind(holder.itemView);
+        assert binding != null;
         binding.setViewModel(data);
         holder.itemView.setOnClickListener(v -> {
             if (itemClickListener != null)

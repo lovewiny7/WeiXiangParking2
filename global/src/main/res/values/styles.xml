@@ -45,7 +45,13 @@
     <style name="line_1dp_ver">
         <item name="android:layout_width">1dp</item>
         <item name="android:layout_height">match_parent</item>
-        <item name="android:background">#55cccccc</item>
+        <item name="android:background">#F08721</item>
+    </style>
+    <!--1dp竖线-->
+    <style name="line_3dp_ver">
+        <item name="android:layout_width">3dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">#F08721</item>
     </style>
     <!--1.5 px的线-->
     <style name="line_3dp">

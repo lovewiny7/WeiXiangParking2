@@ -20,6 +20,7 @@
     <color name="bar2">#F5E6BF</color>
     <color name="bar3">#81D8C8</color>
     <color name="black">#000000</color>
+    <color name="black_333">#333333</color>
     <color name="black_light">#4c4c4c</color>
     <color name="colorAccent">#F2963A</color>
     <color name="colorPhoto">#4F5457</color>
@@ -427,7 +428,7 @@
     <style name="line_1dp_ver">
         <item name="android:layout_width">1dp</item>
         <item name="android:layout_height">match_parent</item>
-        <item name="android:background">#55cccccc</item>
+        <item name="android:background">#F08721</item>
     </style>
     <style name="line_1px">
         <item name="android:layout_width">match_parent</item>
@@ -445,6 +446,11 @@
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">3dp</item>
         <item name="android:background">#55cccccc</item>
+    </style>
+    <style name="line_3dp_ver">
+        <item name="android:layout_width">3dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">#F08721</item>
     </style>
     <style name="line_8dp">
         <item name="android:layout_width">match_parent</item>
